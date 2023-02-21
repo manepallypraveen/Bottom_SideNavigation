@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BottomSideNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!--Manage new request-->
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="close_drawer">close_drawer</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="would_you_like_to_logout">would  you like to logout</string>
+    <string name="okay">Okay!</string>
+
+    <string name="logout">logout</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+
+</resources>
